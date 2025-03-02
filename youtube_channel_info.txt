@@ -1,0 +1,13 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+
+Nabawi TV | Religion | https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/religi/nabawi-tv-id.png |
+https://www.youtube.com/@nabawitv
+
+TVNU | Religion | https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/religi/tvnu-id.png |
+https://www.youtube.com/@tvnu_id
+
+Al-Bahjah TV | Religion | https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/religi/al-bahjah-tv-id.png |
+https://www.youtube.com/@albahjah-tv
+
