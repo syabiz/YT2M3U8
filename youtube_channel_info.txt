@@ -11,3 +11,5 @@ https://www.youtube.com/@tvnu_id
 Al-Bahjah TV | Religion | https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/religi/al-bahjah-tv-id.png |
 https://www.youtube.com/@albahjah-tv
 
+Trans7 Motorsport | Sports | https://asset-2.tstatic.net/banjarmasin/foto/bank/images/Live-streaming-MotoGP-Belanda-2023-siaran-langsung-gratis-tv-Trans7-hari-ini-sprint-race-kualifikasi.jpg |
+https://www.youtube.com/@TRANS7MOTOSPORT
